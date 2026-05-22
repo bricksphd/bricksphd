@@ -1,1 +1,1 @@
-Private landing page
+Welcome to my GitHub Organization.
